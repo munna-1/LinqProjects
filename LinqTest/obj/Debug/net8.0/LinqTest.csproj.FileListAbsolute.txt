@@ -1,0 +1,15 @@
+D:\GitHub_Linq\LinqTest\bin\Debug\net8.0\LinqTest.exe
+D:\GitHub_Linq\LinqTest\bin\Debug\net8.0\LinqTest.deps.json
+D:\GitHub_Linq\LinqTest\bin\Debug\net8.0\LinqTest.runtimeconfig.json
+D:\GitHub_Linq\LinqTest\bin\Debug\net8.0\LinqTest.dll
+D:\GitHub_Linq\LinqTest\bin\Debug\net8.0\LinqTest.pdb
+D:\GitHub_Linq\LinqTest\obj\Debug\net8.0\LinqTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Linq\LinqTest\obj\Debug\net8.0\LinqTest.AssemblyInfoInputs.cache
+D:\GitHub_Linq\LinqTest\obj\Debug\net8.0\LinqTest.AssemblyInfo.cs
+D:\GitHub_Linq\LinqTest\obj\Debug\net8.0\LinqTest.csproj.CoreCompileInputs.cache
+D:\GitHub_Linq\LinqTest\obj\Debug\net8.0\LinqTest.sourcelink.json
+D:\GitHub_Linq\LinqTest\obj\Debug\net8.0\LinqTest.dll
+D:\GitHub_Linq\LinqTest\obj\Debug\net8.0\refint\LinqTest.dll
+D:\GitHub_Linq\LinqTest\obj\Debug\net8.0\LinqTest.pdb
+D:\GitHub_Linq\LinqTest\obj\Debug\net8.0\LinqTest.genruntimeconfig.cache
+D:\GitHub_Linq\LinqTest\obj\Debug\net8.0\ref\LinqTest.dll
