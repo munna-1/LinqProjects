@@ -22,3 +22,4 @@
 /LinqTest/bin/Debug/net8.0/LinqTest.exe
 /LinqTest/bin/Debug/net8.0/LinqTest.pdb
 /LinqTest/bin/Debug/net8.0/LinqTest.runtimeconfig.json
+*.vsidx
