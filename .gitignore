@@ -17,3 +17,8 @@
 /.vs/Tes1/FileContentIndex/42db03f0-f81e-4f69-9651-1b57dd84979b.vsidx
 /.vs/Tes1/FileContentIndex/036d35ec-a189-4f08-a156-53d7344ae788.vsidx
 /.vs/Tes1/FileContentIndex
+/LinqTest/bin/Debug/net8.0/LinqTest.deps.json
+/LinqTest/bin/Debug/net8.0/LinqTest.dll
+/LinqTest/bin/Debug/net8.0/LinqTest.exe
+/LinqTest/bin/Debug/net8.0/LinqTest.pdb
+/LinqTest/bin/Debug/net8.0/LinqTest.runtimeconfig.json
