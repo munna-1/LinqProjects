@@ -24,3 +24,8 @@
 /LinqTest/bin/Debug/net8.0/LinqTest.runtimeconfig.json
 *.vsidx
 /LinqTest/obj/Release/net8.0/LinqTest.AssemblyInfo.cs
+/LinqTest/.vs/LinqTest/v17/.suo
+/LinqTest/obj/Debug/net8.0/LinqTest.AssemblyInfo.cs
+/LinqTest/obj/Debug/net8.0/LinqTest.AssemblyInfoInputs.cache
+/LinqTest/obj/Debug/net8.0/LinqTest.csproj.BuildWithSkipAnalyzers
+/LinqTest/obj/Debug/net8.0/LinqTest.sourcelink.json
