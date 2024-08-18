@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\LinqTest",
+    "\\LinqTest\\bin",
+    "\\LinqTest\\bin\\Debug"
   ],
-  "SelectedNode": "\\D:\\GitHub_Linq",
+  "SelectedNode": "\\LinqTest\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
